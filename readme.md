@@ -1,8 +1,8 @@
-# Tarea 1: Estructuras de Datos en Python 🚀
+# Tarea 1: Estructuras de Datos en Python 
 
 **Repo Link:** https://github.com/I-EmiR-I/Tareas
 
-### 📝 ¿Cómo lo hice?
+###  ¿Cómo lo hice?
 * **Desde cero:** Programé todo desde cero sin usar librerías externas para mantenerlo simple y volver a practicar la sintaxis de Python.
 * **Herramientas:** Utilicé **Gemini** (IA) como apoyo para estructurar el código y redactar las pruebas.
 
